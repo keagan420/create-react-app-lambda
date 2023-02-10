@@ -6,8 +6,6 @@ import './App.css';
 function App() {
  const [date, setDate] = useState(new Date())
 
-
-
 return (
  <div className="app">
    <h1 className="header">React Calendar</h1>
